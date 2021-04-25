@@ -5,8 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL:https://firmware.meizu.com/Firmware/Flyme/m2181/9.0.2.0/cn/20210310200047/7f62866b/update.zip
-  TZ: Asia/Shanghai
+  ROM_URL:https:// firmware.meizu.com/Firmware/Flyme/m2181/9.0.2.0/cn/20210310200047/7f62866b/update.zipTZ: Asia/Shanghai
 
 jobs:
   make:
