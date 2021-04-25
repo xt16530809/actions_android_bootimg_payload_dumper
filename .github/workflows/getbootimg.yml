@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.4.13/miui_ALIOTH_21.4.13_6e7102ba04_11.0.zip
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/m2181/9.0.2.0/cn/20210310200047/7f62866b/update.zip
   TZ: Asia/Shanghai
 
 jobs:
